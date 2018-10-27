@@ -1,0 +1,2 @@
+# eayCode
+init
